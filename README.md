@@ -1,10 +1,12 @@
 # Hello everyone 😄
 ---
-I'm CA, a video encoder developer from China, graduated from Tianjin University in Tianjin, China.
+🤔I'm CA, a video encoder developer from China, graduated from Tianjin University in Tianjin, China.
 
-Now I'm working in Tencent, Shanghai, China.
+🤔Now I'm working in Tencent, Shanghai, China.
 
-I will share something in here that I think is valuable and interesting.
+🤔I will share something in here that I think is valuable and interesting.
+
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=CACAZhangCCCCC&show_icons=true&theme=solarized-light&count_private=true&include_all_commits=true)
 
 
 ## Here are some codecs and programming language related...
@@ -14,16 +16,9 @@ I will share something in here that I think is valuable and interesting.
 ![Static Badge](https://img.shields.io/badge/codec-python-orange) ![Static Badge](https://img.shields.io/badge/codec-bash-orange)
 
 
-
-
-
----
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=CACAZhangCCCCC&show_icons=true&theme=solarized-light&count_private=true&include_all_commits=true)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CACAZhangCCCCC&layout=compact)](https://github.com/CACAZhangCCCCC/github-readme-stats)
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
 
 <!--
 **CACAZhangCCCCC/CACAZhangCCCCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
