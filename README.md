@@ -16,8 +16,8 @@
 ![Static Badge](https://img.shields.io/badge/codec-python-orange) ![Static Badge](https://img.shields.io/badge/codec-bash-orange)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CACAZhangCCCCC&layout=compact)](https://github.com/CACAZhangCCCCC/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CACAZhangCCCCC&layout=compact)](https://github.com/CACAZhangCCCCC)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CACAZhangCCCCC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
