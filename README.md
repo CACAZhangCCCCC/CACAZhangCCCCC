@@ -1,8 +1,8 @@
 # Hello everyone 😄
 ---
-🤔I'm CA, a video encoder developer from China, graduated from Tianjin University in Tianjin, China.
+🤔I'm CA, a video encoder developer from China.
 
-🤔Now I'm working in Tencent, Shanghai, China.
+🤔Now I'm working in T****, Shanghai, China.
 
 🤔I will share something in here that I think is valuable and interesting.
 
@@ -15,9 +15,7 @@
 ![Static Badge](https://img.shields.io/badge/codec-C-orange) ![Static Badge](https://img.shields.io/badge/codec-C%2B%2B-orange) 
 ![Static Badge](https://img.shields.io/badge/codec-python-orange) ![Static Badge](https://img.shields.io/badge/codec-bash-orange)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CACAZhangCCCCC&layout=compact)](https://github.com/CACAZhangCCCCC)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CACAZhangCCCCC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+just do it.
 
 
 <!--
